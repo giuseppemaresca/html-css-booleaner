@@ -6,10 +6,22 @@ header {
     height: 30px;
 }
 
-span{ 
+.blu{ 
     color:aqua
 } 
 
-Yellow{
+.Yellow{
     background-color: yellow;
+}
+
+.Intestazione {
+    background-color: rgb(29, 202, 214);
+    
+    
+}
+th{
+    color: aliceblue;
+}
+.Azzurrino {
+    background-color: aqua
 }
